@@ -146,4 +146,3 @@ Past and current funding and support for **thermofeel** is listed in the adjonin
   
 .. |docs| image:: https://readthedocs.org/projects/thermofeel/badge/?version=latest
   :target: https://thermofeel.readthedocs.io/en/latest/?badge=latest
-
